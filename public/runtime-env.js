@@ -1,0 +1,1 @@
+window.__RUNTIME_CONFIG__ = {"REACT_APP_ENABLE_TRACKER":"false","REACT_APP_ENABLE_VITALS":"false","REACT_APP_SOCKET_ENDPOINT":"wss://hometask.eg1236.com/game1/"};
